@@ -1,1 +1,2 @@
 sample file for Git tests
+added one line
